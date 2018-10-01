@@ -8,6 +8,11 @@ import java.util.Scanner;
  * @author h_kavumk
  *
  */
+/**
+ * jingya
+ * @author DELL
+ *
+ */
 public class Averager {
 
 	public static void main(String[] args) {
