@@ -36,6 +36,7 @@ public class Averager {
 			double average = sum / count;
 			System.out.println(count + " scores read.");
 			System.out.println("The average is " + average);
+			System.out.println("Anqi Oct 2");
 		}
 		
 	}
